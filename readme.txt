@@ -1,1 +1,1 @@
-test test
+Repository for unity game projects. Created with Udemy https://www.udemy.com/course/unitycourse/
